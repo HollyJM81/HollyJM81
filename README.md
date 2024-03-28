@@ -1,11 +1,7 @@
-👋 Hi, I’m @HollyJM81<br/><br/>
-👀 I’m interested in the intersection of software design, gamification and the arts - particularly designing software and web apps that increase and democratise access to creativity<br/><br/>
-:mortar_board: I’ve just started the [CommandShift](https://www.commandshift.co) Bootcamp - March '23 Cohort, and loving being in a learning environment again. Over the last few years I've dabbled in self-guided learning on [freecodecamp](https://www.freecodecamp.org/), [Coursera](https://www.coursera.org/) and [Udemy](https://www.udemy.com/). I've also made a few dinky little apps on my own, including my first web app from scratch, which includes 2 asynchronous API requests in response to a single user input. Dead proud.<br/><br/>
-:musical_note: In my everyday life I'm a professional classical musician working in the UK, EU, Canada, and New Zealand, but keen to transition out of performing and into tech.<br/><br/>
-:construction: I’d love to be brought in to consult or help out with music-centred code projects, but also definitely up for being a junior coder/spare set of hands on someone else's project to further my learning.<br/><br/>
-📫 I'm on [LinkedIn](https://www.linkedin.com/in/hollymathieson/) & [instagram](https://www.instagram.com/hollyjmathieson/), and have a blog on all things codeNewbie, art music, inclusion and accessibility called [Scordatura](https://www.scordatura.io/). You can read about my conducting life on my [website](https://www.hollymathieson.com/).
+I'm a career-changer to software and web development, having worked as an award-winning orchestral conductor in the UK, Europe, Canada and NZ for the last 10 years. I have a particular interest in the intersection of the arts and digital technology, and the possibilities for heightened creativity in real-world and networked spaces. 
 
-<!---
-HollyJM81/HollyJM81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My current tech stack is based on Javascript/Node.js/React/Postgresql. Next on my learning list are C, C++ and C#.
+
+I'm passionate about smart solutions for a cleaner and fairer world, commissioning new works and skewing society towards seeing the arts as something to do rather than something to consume.
+
+I'm a maker, a solutions-strategist, and a champion for kindness.
